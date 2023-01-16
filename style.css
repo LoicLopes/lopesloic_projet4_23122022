@@ -657,7 +657,15 @@ a {
 .container {
     max-width: 1000px;
 }
+#citation-text{
+    font-size: 20px;
+    font-style: italic;
+}
 
+#citation-auteur{
+    font-size: 16px;
+    font-style: normal;   
+}
 .hero-bloc-text {
     font-size: 38px;
 }
